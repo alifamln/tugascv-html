@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -38,8 +38,7 @@
         <li>System Information  September 2024
         <p>Indonesia Computer University
         <li><p>Teknik Jaringan Komputer  Juni 2021 - April 2024
-        <p>SMK Negeri 1 Katapang</p></p></p></li>
-        </ol>
+        <p>SMK Negeri 1 Katapang</p></p></li>
     <hr>
 
     <h2>Certificates</h2>
@@ -64,6 +63,3 @@
         <li>Inggris</li>
         <li>Indonesia</li>
     </ul>
-
-</body>
-</html>
