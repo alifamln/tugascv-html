@@ -45,6 +45,7 @@
     <ul>
         <li>Introduction to Cybersecurity - Cisco</li>
         <li>Logika Pemrograman - Dicoding</li>
+        <li>Mikrotik - PT Len Industri</li>
     </ul>
 
     <hr>
