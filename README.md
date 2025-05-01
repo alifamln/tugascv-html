@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <img src="(https://drive.google.com/uc?id=1hUqDo1s2yzynd5GJmr8ehv626CWs9cAK&export=download)" alt="Foto Alifa Maulani Agnia" width="200" height="170">  <h1>Alifa Maulani Agnia</h1>
+    <img src="(https://drive.google.com/file/d/1hUqDo1s2yzynd5GJmr8ehv626CWs9cAK/view?usp=drive_link)" alt="Foto Alifa Maulani Agnia" width="200" height="170">  <h1>Alifa Maulani Agnia</h1>
     <p>Data Analyst</p>
     <p>(+62) 898-5187-582 | alifaagniamaulani@gmail.com | Bandung, Indonesia</p>
 
